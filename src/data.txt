@@ -1,0 +1,597 @@
+id=211, general='null', punchline='High definition.
+id=146, general='null', punchline='Ten-tickles!
+id=225, general='null', punchline='Piiig
+id=299, general='null', punchline='The meat-ball.
+id=331, general='null', punchline='To prove that he was framed!
+id=45, general='null', punchline='Do you get a laughing stock?
+id=335, general='null', punchline='Because his mother was a wafer so long
+id=271, general='null', punchline='A palm tree!
+id=180, general='null', punchline='Bison.
+id=43, general='null', punchline='I'm sorry, we don't serve food here
+id=268, general='null', punchline='MOODOO.
+id=280, general='null', punchline='A stick.
+id=374, general='null', punchline='So when they get back to port, they can Scandinavian.
+id=201, general='null', punchline='Grrrrrainnnnnssss.
+id=123, general='null', punchline=' Look for fresh prints.
+id=226, general='null', punchline=' A Meowtain.
+id=189, general='null', punchline='Thanks for all the sediment.
+id=227, general='null', punchline='A cloud.
+id=220, general='null', punchline='A cat-tastrophe.
+id=150, general='null', punchline='No… Then how’d you get your foot in it?
+id=102, general='null', punchline='Neither did he.
+id=352, general='null', punchline='Because he is 2 square.
+id=168, general='null', punchline='Nice belt.
+id=95, general='null', punchline='He just took it in stride
+id=189, general='null', punchline='Cliff.
+id=316, general='null', punchline='They're afraid to unwind.
+id=75, general='null', punchline='Lemonaid.
+id=94, general='null', punchline='The food is great, but there’s just no atmosphere.
+id=242, general='null', punchline='A fowl smell!
+id=74, general='null', punchline='Because they use a strongly typed language.
+id=243, general='null', punchline='Hare spray.
+id=318, general='null', punchline='Because they arrr!
+id=107, general='null', punchline='Guilty
+id=136, general='null', punchline='Igloos it together.
+id=383, general='null', punchline='He goes nowhere.
+id=96, general='null', punchline='He had a very esteemed colleague.
+id=7, general='null', punchline='A Dell
+id=99, general='null', punchline='It reads "Small medium at large."
+id=282, general='null', punchline='A Brick.
+id=246, general='null', punchline='It goes back four seconds!
+id=116, general='null', punchline='He was a good conductor.
+id=75, general='null', punchline='Lemonaid.
+id=286, general='null', punchline='An ion! 
+id=255, general='null', punchline='A blood orange.
+id=196, general='null', punchline='Don't look I'm changing!
+id=295, general='null', punchline='When it becomes apparent.
+id=377, general='null', punchline='A race condition. Who is there?
+id=381, general='null', punchline='The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+id=202, general='null', punchline='A gummy bear!
+id=117, general='null', punchline='Because all of the fans left.
+id=84, general='null', punchline='Yes, but don’t turn it on.
+id=60, general='null', punchline='If you have to explain it then it is not that good.
+id=139, general='null', punchline='All of them!
+id=267, general='null', punchline='A Fermilabrador Retriever.
+id=271, general='null', punchline='A palm tree!
+id=280, general='null', punchline='A stick.
+id=309, general='null', punchline='The outside.
+id=235, general='null', punchline='Kernel.
+id=36, general='null', punchline='Because he was a fungi.
+id=203, general='null', punchline='A USB.
+id=81, general='null', punchline='Join the club.
+id=261, general='null', punchline='Sign Language
+id=385, general='null', punchline='They couldn't find a table.
+id=15, general='null', punchline='Even if you're wrong, you're only off by a bit.
+id=227, general='null', punchline='A cloud.
+id=276, general='null', punchline='The second one.
+id=6, general='null', punchline='It goes chew, chew
+id=24, general='null', punchline=''Can I join you?'
+id=387, general='null', punchline='I had to draw my own conclusions.
+id=358, general='null', punchline='Because they don't know the words.
+id=217, general='null', punchline='A four-chin teller.
+id=130, general='null', punchline='You boil the hell out of it.
+id=26, general='null', punchline='the rest of them will write Perl
+id=374, general='null', punchline='So when they get back to port, they can Scandinavian.
+id=247, general='null', punchline='A co-Bra!
+id=360, general='null', punchline='So they can carry their tune
+id=121, general='null', punchline='Lots of training
+id=357, general='null', punchline='Because they use honey combs!
+id=308, general='null', punchline='I haven’t been anywhere!
+id=26, general='null', punchline='the rest of them will write Perl
+id=378, general='null', punchline='I get to keep telling them until you get them.
+id=270, general='null', punchline='Boo jeans.
+id=265, general='null', punchline='A plain bagel.
+id=219, general='null', punchline='Annette.
+id=134, general='null', punchline='Inverse.
+id=376, general='null', punchline='Because he doesn't want to be spotted.
+id=14, general='null', punchline='I didn't know you could yodel!
+id=252, general='null', punchline='A field of corn.
+id=216, general='null', punchline='A metro-gnome
+id=95, general='null', punchline='He just took it in stride
+id=283, general='null', punchline='They work on so many levels.
+id=378, general='null', punchline='I get to keep telling them until you get them.
+id=144, general='null', punchline='12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+id=2, general='null', punchline='You put a little boogie on it.
+id=153, general='null', punchline='Got stacks of em! First one's on the house
+id=268, general='null', punchline='MOODOO.
+id=107, general='null', punchline='Guilty
+id=285, general='null', punchline='One is really heavy, the other is a little lighter.
+id=98, general='null', punchline='Now we just have to call him Dav.
+id=11, general='null', punchline='Tooth hurty.
+id=369, general='null', punchline='To prevent bat breath!
+id=258, general='null', punchline='I don't know and I don't care.
+id=131, general='null', punchline='You planet.
+id=330, general='null', punchline='He held up a pair of pants!
+id=209, general='null', punchline='Chess nuts boasting in an open foyer.
+id=300, general='null', punchline='On a bunny-moon.
+id=238, general='null', punchline='Try and find the TV island it belongs to.
+id=299, general='null', punchline='The meat-ball.
+id=348, general='null', punchline='Because he was outstanding in his field.
+id=18, general='null', punchline='Because he didn't get arrays.
+id=354, general='null', punchline='Because he had no guts.
+id=356, general='null', punchline='Fur protection.
+id=98, general='null', punchline='Now we just have to call him Dav.
+id=8, general='null', punchline='Tulips
+id=232, general='null', punchline='An irrelephant.
+id=298, general='null', punchline=' The BP station.
+id=296, general='null', punchline='When it's ajar.
+id=375, general='null', punchline='Because he is a Supperhero.
+id=40, general='null', punchline='Never mind...it's tearable
+id=269, general='null', punchline='Nep-tunes.
+id=103, general='null', punchline='But most just have 4.
+id=41, general='null', punchline='It was the best dam show I ever saw
+id=267, general='null', punchline='A Fermilabrador Retriever.
+id=297, general='null', punchline='Sunday school.
+id=11, general='null', punchline='Tooth hurty.
+id=67, general='null', punchline='It was very graphic!
+id=28, general='null', punchline='You must first understand what recursion is
+id=258, general='null', punchline='I don't know and I don't care.
+id=40, general='null', punchline='Never mind...it's tearable
+id=92, general='null', punchline='It's ok, he woke up.
+id=384, general='null', punchline='Bartender says, "here, but I’ll need that back in an hour!"
+id=335, general='null', punchline='Because his mother was a wafer so long
+id=261, general='null', punchline='Sign Language
+id=359, general='null', punchline='Because it's too far to walk.
+id=145, general='null', punchline='A Brazilian
+id=42, general='null', punchline='Does that make you an iWitness?
+id=341, general='null', punchline='It was having window panes.
+id=285, general='null', punchline='One is really heavy, the other is a little lighter.
+id=287, general='null', punchline='They can't control their pupils.
+id=373, general='null', punchline='Because there’s a Shortstop in between!
+id=50, general='null', punchline='A satisfactory
+id=209, general='null', punchline='Chess nuts boasting in an open foyer.
+id=317, general='null', punchline='Because they are made to concentrate. 
+id=85, general='null', punchline='I don't think they'll fit me.
+id=124, general='null', punchline='With tomato paste.
+id=334, general='null', punchline='It got mugged.
+id=323, general='null', punchline='The p is silent.
+id=309, general='null', punchline='The outside.
+id=154, general='null', punchline='Nah, I'm still working on it.
+id=384, general='null', punchline='Bartender says, "here, but I’ll need that back in an hour!"
+id=39, general='null', punchline='European
+id=25, general='null', punchline='None that's a hardware problem
+id=181, general='null', punchline='Look, no hands!
+id=122, general='null', punchline='They log on.
+id=80, general='null', punchline='Pop,goes the weasel.
+id=258, general='null', punchline='I don't know and I don't care.
+id=121, general='null', punchline='Lots of training
+id=198, general='null', punchline='Tweets.
+id=1, general='null', punchline='Dam.
+id=335, general='null', punchline='Because his mother was a wafer so long
+id=313, general='null', punchline='Because they live in schools!
+id=84, general='null', punchline='Yes, but don’t turn it on.
+id=102, general='null', punchline='Neither did he.
+id=54, general='null', punchline='I woke up exhausted!
+id=272, general='null', punchline='A nervous wreck.
+id=180, general='null', punchline='Bison.
+id=282, general='null', punchline='A Brick.
+id=381, general='null', punchline='The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+id=85, general='null', punchline='I don't think they'll fit me.
+id=261, general='null', punchline='Sign Language
+id=217, general='null', punchline='A four-chin teller.
+id=132, general='null', punchline='You jacket.
+id=185, general='null', punchline='He let out a little wine.
+id=140, general='null', punchline='A handful of them.
+id=370, general='null', punchline='Because they're so good at it.
+id=261, general='null', punchline='Sign Language
+id=326, general='null', punchline='He made a grave mistake.
+id=34, general='null', punchline='That is impossible. Opportunity doesn’t come knocking twice!
+id=207, general='null', punchline='Ground beef.
+id=322, general='null', punchline='Because then it'd be a foot!
+id=72, general='null', punchline='...but you might not get it.
+id=25, general='null', punchline='None that's a hardware problem
+id=347, general='null', punchline='They wanted to hit the high Cs.
+id=45, general='null', punchline='Do you get a laughing stock?
+id=363, general='null', punchline='Because it's indivisible.
+id=264, general='null', punchline='A little plaque.
+id=194, general='null', punchline='You go on ahead, I am going to hang around a bit longer.
+id=44, general='null', punchline='Because he was a little horse
+id=380, general='null', punchline='Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.
+id=155, general='null', punchline='Never mind, it's too cheesy.
+id=169, general='null', punchline='It's been nice gnawing you.
+id=320, general='null', punchline='It's two-tired.
+id=253, general='null', punchline=' I want to hold your hand, hand, hand, hand...
+id=145, general='null', punchline='A Brazilian
+id=205, general='null', punchline='Aware wolf.
+id=11, general='null', punchline='Tooth hurty.
+id=229, general='null', punchline='An in-vest-igator!
+id=340, general='null', punchline='Because he couldn't see that well!
+id=96, general='null', punchline='He had a very esteemed colleague.
+id=112, general='null', punchline='They haven't got a gig yet.
+id=62, general='null', punchline='Despresso.
+id=185, general='null', punchline='He let out a little wine.
+id=298, general='null', punchline=' The BP station.
+id=379, general='null', punchline='A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+id=317, general='null', punchline='Because they are made to concentrate. 
+id=242, general='null', punchline='A fowl smell!
+id=232, general='null', punchline='An irrelephant.
+id=107, general='null', punchline='Guilty
+id=182, general='null', punchline='Bark bark.
+id=293, general='null', punchline='About 5000 miles.
+id=334, general='null', punchline='It got mugged.
+id=365, general='null', punchline='They have no hands to knock on the door.
+id=45, general='null', punchline='Do you get a laughing stock?
+id=229, general='null', punchline='An in-vest-igator!
+id=43, general='null', punchline='I'm sorry, we don't serve food here
+id=167, general='null', punchline='Lil Caesars
+id=75, general='null', punchline='Lemonaid.
+id=43, general='null', punchline='I'm sorry, we don't serve food here
+id=261, general='null', punchline='Sign Language
+id=47, general='null', punchline='You'll strain your eyes.
+id=249, general='null', punchline='It gets jalapeño face.
+id=301, general='null', punchline='The baa-baa shop.
+id=243, general='null', punchline='Hare spray.
+id=224, general='null', punchline='A pork chop!
+id=207, general='null', punchline='Ground beef.
+id=205, general='null', punchline='Aware wolf.
+id=73, general='null', punchline='Do you know the problem with UDP jokes?
+id=249, general='null', punchline='It gets jalapeño face.
+id=352, general='null', punchline='Because he is 2 square.
+id=2, general='null', punchline='You put a little boogie on it.
+id=66, general='null', punchline='It was legend dairy.
+id=197, general='null', punchline='Make me one with everything.
+id=295, general='null', punchline='When it becomes apparent.
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=157, general='null', punchline='Saturday and Sunday...the rest are weekdays.
+id=325, general='null', punchline='He was too far out, man.
+id=303, general='null', punchline='In the calf-ateria.
+id=7, general='null', punchline='A Dell
+id=386, general='null', punchline='I couldn’t turn it down.
+id=239, general='null', punchline='Park your car, man.
+id=103, general='null', punchline='But most just have 4.
+id=4, general='null', punchline='A waist of time.
+id=122, general='null', punchline='They log on.
+id=359, general='null', punchline='Because it's too far to walk.
+id=73, general='null', punchline='Do you know the problem with UDP jokes?
+id=287, general='null', punchline='They can't control their pupils.
+id=34, general='null', punchline='That is impossible. Opportunity doesn’t come knocking twice!
+id=342, general='null', punchline='To get to the other slide.
+id=248, general='null', punchline='A buccaneer!
+id=306, general='null', punchline='In his sleevies.
+id=193, general='null', punchline='Don't look at me I'm changing!
+id=371, general='null', punchline='Because if it had four doors it would be a chicken sedan.
+id=263, general='null', punchline='It is about 2 hours long.
+id=370, general='null', punchline='Because they're so good at it.
+id=284, general='null', punchline='You can tune a guitar but you can't "tuna"fish!
+id=211, general='null', punchline='High definition.
+id=78, general='null', punchline='No, I got them all cut.
+id=131, general='null', punchline='You planet.
+id=13, general='null', punchline='No, cows go moo.
+id=282, general='null', punchline='A Brick.
+id=115, general='null', punchline='They start coffin.
+id=128, general='null', punchline='Your head hits the ceiling!
+id=230, general='null', punchline='Roberto
+id=344, general='null', punchline='Because he was trying to catch up on his sleep!
+id=204, general='null', punchline='A stick.
+id=91, general='null', punchline='He's all right now.
+id=55, general='null', punchline='Because he neverlands
+id=262, general='null', punchline='The library, it’s got the most stories!
+id=3, general='null', punchline='1Forrest1
+id=137, general='null', punchline='With experi-mints!
+id=26, general='null', punchline='the rest of them will write Perl
+id=242, general='null', punchline='A fowl smell!
+id=152, general='null', punchline='200 Dollars.
+id=254, general='null', punchline='Twister!
+id=280, general='null', punchline='A stick.
+id=370, general='null', punchline='Because they're so good at it.
+id=292, general='null', punchline='Well, the flag is a big plus.
+id=27, general='null', punchline='(hip hip array)
+id=298, general='null', punchline=' The BP station.
+id=310, general='null', punchline='His ghoul-friend
+id=355, general='null', punchline='Because they might peel!
+id=299, general='null', punchline='The meat-ball.
+id=135, general='null', punchline='Bone-jour.
+id=232, general='null', punchline='An irrelephant.
+id=338, general='null', punchline='To hold his pants up.
+id=358, general='null', punchline='Because they don't know the words.
+id=145, general='null', punchline='A Brazilian
+id=42, general='null', punchline='Does that make you an iWitness?
+id=362, general='null', punchline='They always quack the case.
+id=189, general='null', punchline='Cliff.
+id=56, general='null', punchline='Try it out on Internet Explorer
+id=302, general='null', punchline='At sundae school.
+id=51, general='null', punchline='Yep, people are just dying to get in there
+id=259, general='null', punchline='The ground.
+id=236, general='null', punchline='Nobody knows.
+id=215, general='null', punchline='An impasta.
+id=56, general='null', punchline='Try it out on Internet Explorer
+id=274, general='null', punchline='Tooth hurt-y.
+id=136, general='null', punchline='Igloos it together.
+id=116, general='null', punchline='He was a good conductor.
+id=100, general='null', punchline='She was a roman catholic.
+id=387, general='null', punchline='I had to draw my own conclusions.
+id=158, general='null', punchline='Shortbread. 
+id=243, general='null', punchline='Hare spray.
+id=28, general='null', punchline='You must first understand what recursion is
+id=282, general='null', punchline='A Brick.
+id=2, general='null', punchline='You put a little boogie on it.
+id=215, general='null', punchline='An impasta.
+id=213, general='null', punchline='R2 detour.
+id=190, general='null', punchline='Nothing, it just waved.
+id=307, general='null', punchline='At the bottom! 
+id=210, general='null', punchline='A Popsicle.
+id=214, general='null', punchline='A wise quacker.
+id=282, general='null', punchline='A Brick.
+id=325, general='null', punchline='He was too far out, man.
+id=137, general='null', punchline='With experi-mints!
+id=288, general='null', punchline='The teachers tend to Babylon.
+id=11, general='null', punchline='Tooth hurty.
+id=297, general='null', punchline='Sunday school.
+id=272, general='null', punchline='A nervous wreck.
+id=271, general='null', punchline='A palm tree!
+id=53, general='null', punchline='You boil the hell out of it
+id=120, general='null', punchline='They always egg-cercise!
+id=246, general='null', punchline='It goes back four seconds!
+id=159, general='null', punchline='Nacho cheese.
+id=151, general='null', punchline='Pasta la vista, baby!
+id=305, general='null', punchline='Chick-Fil-Eyyyyyyyy.
+id=285, general='null', punchline='One is really heavy, the other is a little lighter.
+id=352, general='null', punchline='Because he is 2 square.
+id=161, general='null', punchline='She wasn't right for me, so I really don't carrot all.
+id=218, general='null', punchline='A walk.
+id=40, general='null', punchline='Never mind...it's tearable
+id=367, general='null', punchline='Dunno, they're just a bit shady.
+id=181, general='null', punchline='Look, no hands!
+id=180, general='null', punchline='Bison.
+id=197, general='null', punchline='Make me one with everything.
+id=11, general='null', punchline='Tooth hurty.
+id=164, general='null', punchline='Dinner is on me!
+id=259, general='null', punchline='The ground.
+id=46, general='null', punchline='He loves his pot.
+id=115, general='null', punchline='They start coffin.
+id=187, general='null', punchline='I’ll ketch up
+id=69, general='null', punchline='It was a soft drink.
+id=254, general='null', punchline='Twister!
+id=364, general='null', punchline='They always get stuck at "C".
+id=24, general='null', punchline=''Can I join you?'
+id=263, general='null', punchline='It is about 2 hours long.
+id=50, general='null', punchline='A satisfactory
+id=383, general='null', punchline='He goes nowhere.
+id=337, general='null', punchline='Somebody told him to get a long little doggy.
+id=350, general='null', punchline='It needed a root canal.
+id=70, general='null', punchline='It keeps giving me mixed results.
+id=63, general='null', punchline='To make ends meat.
+id=275, general='null', punchline='Pop music!
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=147, general='null', punchline='An instagram.
+id=194, general='null', punchline='You go on ahead, I am going to hang around a bit longer.
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=325, general='null', punchline='He was too far out, man.
+id=199, general='null', punchline='A JOKE MACHINE!?
+id=311, general='null', punchline='The hip Doctor!
+id=352, general='null', punchline='Because he is 2 square.
+id=245, general='null', punchline='Lemonaid.
+id=37, general='null', punchline='Because he was a fungi.
+id=283, general='null', punchline='They work on so many levels.
+id=383, general='null', punchline='He goes nowhere.
+id=154, general='null', punchline='Nah, I'm still working on it.
+id=286, general='null', punchline='An ion! 
+id=293, general='null', punchline='About 5000 miles.
+id=13, general='null', punchline='No, cows go moo.
+id=207, general='null', punchline='Ground beef.
+id=206, general='null', punchline='A milk shake!
+id=298, general='null', punchline=' The BP station.
+id=315, general='null', punchline='Because of all the coffin.
+id=378, general='null', punchline='I get to keep telling them until you get them.
+id=71, general='null', punchline='They were fully booked.
+id=185, general='null', punchline='He let out a little wine.
+id=224, general='null', punchline='A pork chop!
+id=274, general='null', punchline='Tooth hurt-y.
+id=162, general='null', punchline='   Billy Jeans!
+id=380, general='null', punchline='Those who understand binary, those who don't, and those who weren't expecting a base 3 joke.
+id=294, general='null', punchline='When they run out of patients.
+id=263, general='null', punchline='It is about 2 hours long.
+id=117, general='null', punchline='Because all of the fans left.
+id=64, general='null', punchline='It went back four seconds.
+id=58, general='null', punchline='You should drop another one, then you would have a pair.
+id=57, general='null', punchline='Ground beef!
+id=329, general='null', punchline='He took a short cut.
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=348, general='null', punchline='Because he was outstanding in his field.
+id=352, general='null', punchline='Because he is 2 square.
+id=115, general='null', punchline='They start coffin.
+id=72, general='null', punchline='...but you might not get it.
+id=378, general='null', punchline='I get to keep telling them until you get them.
+id=371, general='null', punchline='Because if it had four doors it would be a chicken sedan.
+id=271, general='null', punchline='A palm tree!
+id=311, general='null', punchline='The hip Doctor!
+id=113, general='null', punchline='Never mind, I shouldn't spread it.
+id=121, general='null', punchline='Lots of training
+id=57, general='null', punchline='Ground beef!
+id=331, general='null', punchline='To prove that he was framed!
+id=180, general='null', punchline='Bison.
+id=78, general='null', punchline='No, I got them all cut.
+id=376, general='null', punchline='Because he doesn't want to be spotted.
+id=208, general='null', punchline='Lean beef.
+id=25, general='null', punchline='None that's a hardware problem
+id=110, general='null', punchline='It's because they don't know the words.
+id=379, general='null', punchline='A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+id=360, general='null', punchline='So they can carry their tune
+id=312, general='null', punchline='Because they have their own scales.
+id=331, general='null', punchline='To prove that he was framed!
+id=261, general='null', punchline='Sign Language
+id=245, general='null', punchline='Lemonaid.
+id=277, general='null', punchline='Squash.
+id=382, general='null', punchline='It hurts when IP.
+id=247, general='null', punchline='A co-Bra!
+id=163, general='null', punchline=' I'm a cashew!
+id=272, general='null', punchline='A nervous wreck.
+id=197, general='null', punchline='Make me one with everything.
+id=148, general='null', punchline='A little shaken.
+id=258, general='null', punchline='I don't know and I don't care.
+id=115, general='null', punchline='They start coffin.
+id=116, general='null', punchline='He was a good conductor.
+id=222, general='null', punchline='A babooooom!
+id=95, general='null', punchline='He just took it in stride
+id=213, general='null', punchline='R2 detour.
+id=135, general='null', punchline='Bone-jour.
+id=19, general='null', punchline='It ended in a tie.
+id=240, general='null', punchline='Sore arms.
+id=168, general='null', punchline='Nice belt.
+id=257, general='null', punchline='Red paint!
+id=213, general='null', punchline='R2 detour.
+id=105, general='null', punchline='I didn't even know they were catholic.
+id=282, general='null', punchline='A Brick.
+id=131, general='null', punchline='You planet.
+id=370, general='null', punchline='Because they're so good at it.
+id=31, general='null', punchline='It gets toad away
+id=368, general='null', punchline='Because they can't even.
+id=199, general='null', punchline='A JOKE MACHINE!?
+id=308, general='null', punchline='I haven’t been anywhere!
+id=263, general='null', punchline='It is about 2 hours long.
+id=183, general='null', punchline='Cool Ranch!
+id=377, general='null', punchline='A race condition. Who is there?
+id=190, general='null', punchline='Nothing, it just waved.
+id=265, general='null', punchline='A plain bagel.
+id=377, general='null', punchline='A race condition. Who is there?
+id=269, general='null', punchline='Nep-tunes.
+id=181, general='null', punchline='Look, no hands!
+id=333, general='null', punchline='Because he was a little horse!
+id=78, general='null', punchline='No, I got them all cut.
+id=185, general='null', punchline='He let out a little wine.
+id=48, general='null', punchline='I don't know what he laced them with, but I was tripping all day!
+id=304, general='null', punchline='The batroom.
+id=112, general='null', punchline='They haven't got a gig yet.
+id=213, general='null', punchline='R2 detour.
+id=314, general='null', punchline='Because you can see right through them!
+id=370, general='null', punchline='Because they're so good at it.
+id=73, general='null', punchline='Do you know the problem with UDP jokes?
+id=141, general='null', punchline='Oh, it's a really obscure number. You've probably never heard of it.
+id=33, general='null', punchline='Can't catch me - Avicii
+id=4, general='null', punchline='A waist of time.
+id=210, general='null', punchline='A Popsicle.
+id=102, general='null', punchline='Neither did he.
+id=329, general='null', punchline='He took a short cut.
+id=335, general='null', punchline='Because his mother was a wafer so long
+id=130, general='null', punchline='You boil the hell out of it.
+id=286, general='null', punchline='An ion! 
+id=98, general='null', punchline='Now we just have to call him Dav.
+id=250, general='null', punchline='It gets toad.
+id=330, general='null', punchline='He held up a pair of pants!
+id=142, general='null', punchline='Let's go ride bikes!
+id=321, general='null', punchline='Because it's not stroganoff.
+id=322, general='null', punchline='Because then it'd be a foot!
+id=38, general='null', punchline='It's impossible to put down
+id=48, general='null', punchline='I don't know what he laced them with, but I was tripping all day!
+id=87, general='null', punchline='They had a reptile dysfunction.
+id=140, general='null', punchline='A handful of them.
+id=306, general='null', punchline='In his sleevies.
+id=339, general='null', punchline='To go with the traffic jam.
+id=23, general='null', punchline='Because Oct 31 == Dec 25
+id=385, general='null', punchline='They couldn't find a table.
+id=229, general='null', punchline='An in-vest-igator!
+id=44, general='null', punchline='Because he was a little horse
+id=121, general='null', punchline='Lots of training
+id=68, general='null', punchline='The sails are going through the roof.
+id=362, general='null', punchline='They always quack the case.
+id=180, general='null', punchline='Bison.
+id=107, general='null', punchline='Guilty
+id=291, general='null', punchline='1forest1
+id=119, general='null', punchline='He ate the pizza before it was cool.
+id=248, general='null', punchline='A buccaneer!
+id=302, general='null', punchline='At sundae school.
+id=54, general='null', punchline='I woke up exhausted!
+id=293, general='null', punchline='About 5000 miles.
+id=242, general='null', punchline='A fowl smell!
+id=103, general='null', punchline='But most just have 4.
+id=293, general='null', punchline='About 5000 miles.
+id=257, general='null', punchline='Red paint!
+id=119, general='null', punchline='He ate the pizza before it was cool.
+id=108, general='null', punchline='The stock market.
+id=114, general='null', punchline='They come out at night!
+id=199, general='null', punchline='A JOKE MACHINE!?
+id=54, general='null', punchline='I woke up exhausted!
+id=48, general='null', punchline='I don't know what he laced them with, but I was tripping all day!
+id=189, general='null', punchline='Thanks for all the sediment.
+id=64, general='null', punchline='It went back four seconds.
+id=32, general='null', punchline='they were cooked in Greece
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=183, general='null', punchline='Cool Ranch!
+id=130, general='null', punchline='You boil the hell out of it.
+id=286, general='null', punchline='An ion! 
+id=54, general='null', punchline='I woke up exhausted!
+id=104, general='null', punchline='Their ghoul-friend
+id=265, general='null', punchline='A plain bagel.
+id=61, general='null', punchline='Bless you!
+id=198, general='null', punchline='Tweets.
+id=331, general='null', punchline='To prove that he was framed!
+id=66, general='null', punchline='It was legend dairy.
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=107, general='null', punchline='Guilty
+id=275, general='null', punchline='Pop music!
+id=264, general='null', punchline='A little plaque.
+id=90, general='null', punchline='They say he made a mint.
+id=242, general='null', punchline='A fowl smell!
+id=48, general='null', punchline='I don't know what he laced them with, but I was tripping all day!
+id=160, general='null', punchline='A spelling bee.
+id=381, general='null', punchline='The first guy says "Ouch!" and the second says "Yeah, I didn't see it either."
+id=90, general='null', punchline='They say he made a mint.
+id=98, general='null', punchline='Now we just have to call him Dav.
+id=180, general='null', punchline='Bison.
+id=357, general='null', punchline='Because they use honey combs!
+id=38, general='null', punchline='It's impossible to put down
+id=107, general='null', punchline='Guilty
+id=334, general='null', punchline='It got mugged.
+id=93, general='null', punchline='He had loco motives
+id=284, general='null', punchline='You can tune a guitar but you can't "tuna"fish!
+id=134, general='null', punchline='Inverse.
+id=221, general='null', punchline='An Orca-stra.
+id=206, general='null', punchline='A milk shake!
+id=373, general='null', punchline='Because there’s a Shortstop in between!
+id=143, general='null', punchline='1 or 2? 1... or 2?
+id=11, general='null', punchline='Tooth hurty.
+id=48, general='null', punchline='I don't know what he laced them with, but I was tripping all day!
+id=383, general='null', punchline='He goes nowhere.
+id=361, general='null', punchline='Because they’re shellfish.
+id=27, general='null', punchline='(hip hip array)
+id=271, general='null', punchline='A palm tree!
+id=242, general='null', punchline='A fowl smell!
+id=51, general='null', punchline='Yep, people are just dying to get in there
+id=386, general='null', punchline='I couldn’t turn it down.
+id=115, general='null', punchline='They start coffin.
+id=264, general='null', punchline='A little plaque.
+id=82, general='null', punchline='Of course. The Empire State Building can't jump.
+id=299, general='null', punchline='The meat-ball.
+id=370, general='null', punchline='Because they're so good at it.
+id=231, general='null', punchline='Talonted!
+id=211, general='null', punchline='High definition.
+id=55, general='null', punchline='Because he neverlands
+id=49, general='null', punchline='Because if they had four, they would be chicken sedans
+id=76, general='null', punchline='They are always negative.
+id=241, general='null', punchline='A bah-humbug.
+id=315, general='null', punchline='Because of all the coffin.
+id=83, general='null', punchline='No, but April may.
+id=62, general='null', punchline='Despresso.
+id=182, general='null', punchline='Bark bark.
+id=368, general='null', punchline='Because they can't even.
+id=319, general='null', punchline='Because nothing gets under their skin.
+id=94, general='null', punchline='The food is great, but there’s just no atmosphere.
+id=207, general='null', punchline='Ground beef.
+id=284, general='null', punchline='You can tune a guitar but you can't "tuna"fish!
+id=339, general='null', punchline='To go with the traffic jam.
+id=85, general='null', punchline='I don't think they'll fit me.
+id=308, general='null', punchline='I haven’t been anywhere!
+id=113, general='null', punchline='Never mind, I shouldn't spread it.
+id=86, general='null', punchline='They say the business is toast.
+id=386, general='null', punchline='I couldn’t turn it down.
+id=161, general='null', punchline='She wasn't right for me, so I really don't carrot all.
+id=147, general='null', punchline='An instagram.
+id=288, general='null', punchline='The teachers tend to Babylon.
+id=11, general='null', punchline='Tooth hurty.
+id=29, general='null', punchline='Those who understand binary and those who don't
+id=122, general='null', punchline='They log on.
+id=76, general='null', punchline='They are always negative.
+id=119, general='null', punchline='He ate the pizza before it was cool.
+id=297, general='null', punchline='Sunday school.
+id=307, general='null', punchline='At the bottom! 
+id=6, general='null', punchline='It goes chew, chew
+id=112, general='null', punchline='They haven't got a gig yet.
+id=127, general='null', punchline='Start in England and drive West.
+id=210, general='null', punchline='A Popsicle.
+id=347, general='null', punchline='They wanted to hit the high Cs.
+id=204, general='null', punchline='A stick.
+id=159, general='null', punchline='Nacho cheese.
+id=300, general='null', punchline='On a bunny-moon.
+id=33, general='null', punchline='Can't catch me - Avicii
+id=102, general='null', punchline='Neither did he.
+id=16, general='null', punchline='Inheritance

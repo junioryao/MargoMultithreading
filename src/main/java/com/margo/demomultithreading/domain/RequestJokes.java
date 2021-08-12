@@ -26,7 +26,7 @@ public class RequestJokes implements Callable<Joke> {
       result = RestServiceCaller.getObjectSingle()
                                 .getForEntity("http://official-joke-api.appspot.com/random_joke", Joke.class);
     } catch (HttpStatusCodeException e) {
-      System.out.println("Thread is waiting : "+Thread.currentThread().getId());
+      System.out.println("Thread " +Thread.currentThread().getId() +" is waiting");
       Thread.sleep(WAIT_FOR_16MIN.getValue()); // it will make each thread wait ( async thread ) Max thread is 10
 
     }
@@ -41,7 +41,7 @@ public class RequestJokes implements Callable<Joke> {
   private static void writeIntoFile(Joke joke) throws IOException {
     synchronized (joke) {
       Files.writeString(file.toPath(), joke.toString().concat("\n"), StandardOpenOption.APPEND);
-      System.out.println("System is writing");
+      System.out.println("Thread " + Thread.currentThread().getId() +"is writing");
     }
   }
 

@@ -26,7 +26,7 @@ public class DemoMultithreadingApplication implements CommandLineRunner {
     ExecutorService threadService = Executors.newFixedThreadPool(10); // run task async
     // to execute a thread
     List<Future<Joke>> mydata = new ArrayList<>();
-    for (int i = 0; i < 520; i++) {
+    for (int i = 0; i < 520000; i++) {
       Future<Joke> data = threadService.submit(new RequestJokes());
       mydata.add(data);
     }
