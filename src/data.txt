@@ -3832,3 +3832,103 @@ id=273, general='null', punchline='A tuba toothpaste.
 id=271, general='null', punchline='A palm tree!
 id=189, general='null', punchline='Cliff.
 id=123, general='test', punchline='testing mockito
+id=130, general='null', punchline='You boil the hell out of it.
+id=286, general='null', punchline='An ion! 
+id=190, general='null', punchline='Nothing, it just waved.
+id=365, general='null', punchline='They have no hands to knock on the door.
+id=81, general='null', punchline='Join the club.
+id=125, general='null', punchline='You use a pumpkin patch.
+id=279, general='null', punchline=' Light blue.
+id=89, general='null', punchline='It was udder destruction.
+id=222, general='null', punchline='A babooooom!
+id=10, general='null', punchline='Sneakers
+id=274, general='null', punchline='Tooth hurt-y.
+id=83, general='null', punchline='No, but April may.
+id=73, general='null', punchline='Do you know the problem with UDP jokes?
+id=57, general='null', punchline='Ground beef!
+id=257, general='null', punchline='Red paint!
+id=265, general='null', punchline='A plain bagel.
+id=370, general='null', punchline='Because they're so good at it.
+id=105, general='null', punchline='I didn't even know they were catholic.
+id=92, general='null', punchline='It's ok, he woke up.
+id=44, general='null', punchline='Because he was a little horse
+id=187, general='null', punchline='I’ll ketch up
+id=284, general='null', punchline='You can tune a guitar but you can't "tuna"fish!
+id=204, general='null', punchline='A stick.
+id=142, general='null', punchline='Let's go ride bikes!
+id=40, general='null', punchline='Never mind...it's tearable
+id=302, general='null', punchline='At sundae school.
+id=341, general='null', punchline='It was having window panes.
+id=83, general='null', punchline='No, but April may.
+id=219, general='null', punchline='Annette.
+id=264, general='null', punchline='A little plaque.
+id=80, general='null', punchline='Pop,goes the weasel.
+id=212, general='null', punchline='a labracadabrador
+id=57, general='null', punchline='Ground beef!
+id=359, general='null', punchline='Because it's too far to walk.
+id=30, general='null', punchline='Put it on my bill
+id=209, general='null', punchline='Chess nuts boasting in an open foyer.
+id=293, general='null', punchline='About 5000 miles.
+id=236, general='null', punchline='Nobody knows.
+id=62, general='null', punchline='Despresso.
+id=307, general='null', punchline='At the bottom! 
+id=207, general='null', punchline='Ground beef.
+id=62, general='null', punchline='Despresso.
+id=18, general='null', punchline='Because he didn't get arrays.
+id=35, general='null', punchline='Because they don't C#
+id=184, general='null', punchline='Damn!
+id=242, general='null', punchline='A fowl smell!
+id=222, general='null', punchline='A babooooom!
+id=111, general='null', punchline='They mostly wrap.
+id=72, general='null', punchline='...but you might not get it.
+id=158, general='null', punchline='Shortbread. 
+id=186, general='null', punchline='Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+id=37, general='null', punchline='Because he was a fungi.
+id=298, general='null', punchline=' The BP station.
+id=385, general='null', punchline='They couldn't find a table.
+id=304, general='null', punchline='The batroom.
+id=188, general='null', punchline='Between us, something smells!
+id=364, general='null', punchline='They always get stuck at "C".
+id=233, general='null', punchline='Water.
+id=3, general='null', punchline='1Forrest1
+id=258, general='null', punchline='I don't know and I don't care.
+id=187, general='null', punchline='I’ll ketch up
+id=13, general='null', punchline='No, cows go moo.
+id=207, general='null', punchline='Ground beef.
+id=311, general='null', punchline='The hip Doctor!
+id=22, general='null', punchline='Narnia business!
+id=290, general='null', punchline='He’s only got little legs.
+id=13, general='null', punchline='No, cows go moo.
+id=101, general='null', punchline='FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+id=11, general='null', punchline='Tooth hurty.
+id=127, general='null', punchline='Start in England and drive West.
+id=293, general='null', punchline='About 5000 miles.
+id=191, general='null', punchline='They're really good at it.
+id=110, general='null', punchline='It's because they don't know the words.
+id=240, general='null', punchline='Sore arms.
+id=24, general='null', punchline=''Can I join you?'
+id=353, general='null', punchline='It ran out of juice.
+id=369, general='null', punchline='To prevent bat breath!
+id=145, general='null', punchline='A Brazilian
+id=72, general='null', punchline='...but you might not get it.
+id=215, general='null', punchline='An impasta.
+id=156, general='null', punchline='A bat.
+id=256, general='null', punchline='Spelling!
+id=166, general='null', punchline='I'll meet you at the corner!
+id=286, general='null', punchline='An ion! 
+id=20, general='null', punchline='A Yamahahahaha.
+id=36, general='null', punchline='Because he was a fungi.
+id=234, general='null', punchline='Provolone.
+id=318, general='null', punchline='Because they arrr!
+id=253, general='null', punchline=' I want to hold your hand, hand, hand, hand...
+id=90, general='null', punchline='They say he made a mint.
+id=145, general='null', punchline='A Brazilian
+id=303, general='null', punchline='In the calf-ateria.
+id=56, general='null', punchline='Try it out on Internet Explorer
+id=36, general='null', punchline='Because he was a fungi.
+id=319, general='null', punchline='Because nothing gets under their skin.
+id=139, general='null', punchline='All of them!
+id=194, general='null', punchline='You go on ahead, I am going to hang around a bit longer.
+id=328, general='null', punchline='Because he had a vowel movement.
+id=279, general='null', punchline=' Light blue.
+id=6, general='null', punchline='It goes chew, chew

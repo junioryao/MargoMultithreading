@@ -30,10 +30,10 @@ public class DemoMultithreadingApplication implements CommandLineRunner {
       Future<Joke> data = threadService.submit(new RequestJokes());
       mydata.add(data);
     }
-    List<Joke> mydataresult =  new ArrayList<>() ;
+    List<Joke> mydataresult = new ArrayList<>();
     mydata.forEach(jokeFuture -> {
       try {
-        mydataresult.add(jokeFuture.get()) ;
+        mydataresult.add(jokeFuture.get());
       } catch (InterruptedException e) {
         e.printStackTrace();
       } catch (ExecutionException e) {

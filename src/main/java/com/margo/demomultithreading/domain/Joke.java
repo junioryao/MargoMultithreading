@@ -9,14 +9,14 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Joke  implements Comparable<Joke> {
+public class Joke implements Comparable<Joke> {
   private int id;
   private String general;
   private String punchline;
 
   @Override
   public String toString() {
-    return "" + "id=" + id + ", general='" + general + '\'' + ", punchline='" + punchline ;
+    return "" + "id=" + id + ", general='" + general + '\'' + ", punchline='" + punchline;
   }
 
   @Override

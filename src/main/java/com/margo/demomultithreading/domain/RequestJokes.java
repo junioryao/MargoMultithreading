@@ -1,6 +1,5 @@
 package com.margo.demomultithreading.domain;
 
-import org.assertj.core.util.VisibleForTesting;
 import org.springframework.web.client.HttpStatusCodeException;
 
 import java.io.File;
@@ -19,6 +18,14 @@ public class RequestJokes implements Callable<Joke> {
     file.createNewFile();
   }
 
+
+  public static void writeIntoFile(Joke joke) throws IOException {
+    synchronized (joke) {
+      Files.writeString(file.toPath(), joke.toString().concat("\n"), StandardOpenOption.APPEND);
+      System.out.println("Thread " + Thread.currentThread().getId() + " is writing");
+    }
+  }
+
   @Override
   public Joke call() throws Exception {
     Joke result = null;
@@ -26,11 +33,9 @@ public class RequestJokes implements Callable<Joke> {
       result = RestServiceCaller.getObjectSingle()
                                 .getForObject("http://official-joke-api.appspot.com/random_joke", Joke.class);
     } catch (HttpStatusCodeException e) {
-      System.out.println("thread is waiting : " + Thread.currentThread()
-                                                        .getId());
+      System.out.println("thread is waiting : " + Thread.currentThread().getId());
       Thread.sleep(WAIT_FOR_16MIN.getValue()); // it will make each thread wait ( async thread ) Max thread is 10
-      Thread.currentThread()
-            .interrupt();
+      Thread.currentThread().interrupt();
     }
     // perform  writing into a file
     if (result != null) {
@@ -38,16 +43,6 @@ public class RequestJokes implements Callable<Joke> {
       return Objects.requireNonNull(result);
     }
     throw new Exception("Something went wrong");
-  }
-
-  @VisibleForTesting
-  public static void writeIntoFile(Joke joke) throws IOException {
-    synchronized (joke) {
-      Files.writeString(file.toPath(), joke.toString()
-                                           .concat("\n"), StandardOpenOption.APPEND);
-      System.out.println("Thread " + Thread.currentThread()
-                                           .getId() + " is writing");
-    }
   }
 
 }
