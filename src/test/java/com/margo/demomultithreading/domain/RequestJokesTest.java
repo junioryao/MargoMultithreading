@@ -2,12 +2,10 @@ package com.margo.demomultithreading.domain;
 
 import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mockito;
 import org.springframework.web.client.RestTemplate;
 
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -31,7 +29,7 @@ class RequestJokesTest {
     Joke joketest = Joke.builder()
                         .id(123)
                         .punchline("testing mockito")
-                        .general("test")
+                        .type("test")
                         .build();
     File filesTest = new File("../../data.txt");
     ExecutorService executor = Executors.newFixedThreadPool(1);

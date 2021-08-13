@@ -16,7 +16,7 @@ public class Joke implements Comparable<Joke> {
 
   @Override
   public String toString() {
-    return "" + "id=" + id + ", general='" + general + '\'' + ", punchline='" + punchline;
+    return "" + "id=" + id + ", general='" + type + '\'' + ", punchline='" + punchline;
   }
 
   @Override
