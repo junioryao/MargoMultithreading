@@ -11,7 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class Joke implements Comparable<Joke> {
   private int id;
-  private String general;
+  private String type;
   private String punchline;
 
   @Override
