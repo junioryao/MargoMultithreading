@@ -1,6 +1,6 @@
 package com.margo.demomultithreading.domain;
 
-import org.springframework.http.ResponseEntity;
+import org.assertj.core.util.VisibleForTesting;
 import org.springframework.web.client.HttpStatusCodeException;
 
 import java.io.File;
@@ -21,27 +21,32 @@ public class RequestJokes implements Callable<Joke> {
 
   @Override
   public Joke call() throws Exception {
-    ResponseEntity<Joke> result = null;
+    Joke result = null;
     try {
       result = RestServiceCaller.getObjectSingle()
-                                .getForEntity("http://official-joke-api.appspot.com/random_joke", Joke.class);
+                                .getForObject("http://official-joke-api.appspot.com/random_joke", Joke.class);
     } catch (HttpStatusCodeException e) {
-      System.out.println("Thread " +Thread.currentThread().getId() +" is waiting");
+      System.out.println("thread is waiting : " + Thread.currentThread()
+                                                        .getId());
       Thread.sleep(WAIT_FOR_16MIN.getValue()); // it will make each thread wait ( async thread ) Max thread is 10
-
+      Thread.currentThread()
+            .interrupt();
     }
     // perform  writing into a file
     if (result != null) {
-      RequestJokes.writeIntoFile(Objects.requireNonNull(result.getBody()));
-      return Objects.requireNonNull(result.getBody());
+      RequestJokes.writeIntoFile(Objects.requireNonNull(result));
+      return Objects.requireNonNull(result);
     }
     throw new Exception("Something went wrong");
   }
 
-  private static void writeIntoFile(Joke joke) throws IOException {
+  @VisibleForTesting
+  public static void writeIntoFile(Joke joke) throws IOException {
     synchronized (joke) {
-      Files.writeString(file.toPath(), joke.toString().concat("\n"), StandardOpenOption.APPEND);
-      System.out.println("Thread " + Thread.currentThread().getId() +"is writing");
+      Files.writeString(file.toPath(), joke.toString()
+                                           .concat("\n"), StandardOpenOption.APPEND);
+      System.out.println("Thread " + Thread.currentThread()
+                                           .getId() + " is writing");
     }
   }
 
