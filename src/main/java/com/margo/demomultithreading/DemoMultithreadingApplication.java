@@ -31,15 +31,16 @@ public class DemoMultithreadingApplication implements CommandLineRunner {
       mydata.add(data);
     }
     List<Joke> mydataresult = new ArrayList<>();
-    mydata.forEach(jokeFuture -> {
-      try {
-        mydataresult.add(jokeFuture.get());
-      } catch (InterruptedException e) {
-        e.printStackTrace();
-      } catch (ExecutionException e) {
-        e.printStackTrace();
-      }
-    });
+    mydata.forEach(
+        jokeFuture -> {
+          try {
+            mydataresult.add(jokeFuture.get());
+          } catch (InterruptedException e) {
+            e.printStackTrace();
+          } catch (ExecutionException e) {
+            e.printStackTrace();
+          }
+        });
     Collections.sort(mydataresult); // sort the result
     mydata.forEach(System.out::println);
   }

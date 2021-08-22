@@ -32,11 +32,14 @@ public class RequestJokes implements Callable<Joke> {
   public Joke call() throws Exception {
     Joke result = null;
     try {
-      result = RestServiceCaller.getObjectSingle()
-                                .getForObject("https://official-joke-api.appspot.com/random_joke", Joke.class);
+      result =
+          RestServiceCaller.getObjectSingle()
+              .getForObject("https://official-joke-api.appspot.com/random_joke", Joke.class);
     } catch (HttpStatusCodeException e) {
       loggerFactory.info("thread is waiting : " + Thread.currentThread().getId());
-      Thread.sleep(WAIT_FOR_16MIN.getValue()); // it will make each thread wait ( async thread ) Max thread is 10
+      Thread.sleep(
+          WAIT_FOR_16MIN
+              .getValue()); // it will make each thread wait ( async thread ) Max thread is 10
     }
     // perform  writing into a file
     if (result != null) {
@@ -45,5 +48,4 @@ public class RequestJokes implements Callable<Joke> {
     }
     throw new Exception("Something went wrong");
   }
-
 }

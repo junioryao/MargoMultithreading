@@ -22,8 +22,7 @@ public class Joke implements Comparable<Joke> {
   @Override
   public int compareTo(Joke o) {
     if (this.getId() == o.getId()) return 0;
-    else
-      if (this.getId() > o.getId()) return 1;
-      else return -1;
+    else if (this.getId() > o.getId()) return 1;
+    else return -1;
   }
 }

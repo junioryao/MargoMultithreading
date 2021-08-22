@@ -298,3 +298,203 @@ id=262, general='general', punchline='The library, it’s got the most stories!
 id=212, general='general', punchline='a labracadabrador
 id=243, general='general', punchline='Hare spray.
 id=192, general='general', punchline='Aye Matey!
+id=112, general='general', punchline='They haven't got a gig yet.
+id=98, general='general', punchline='Now we just have to call him Dav.
+id=80, general='general', punchline='Pop,goes the weasel.
+id=206, general='general', punchline='A milk shake!
+id=283, general='general', punchline='They work on so many levels.
+id=155, general='general', punchline='Never mind, it's too cheesy.
+id=288, general='general', punchline='The teachers tend to Babylon.
+id=261, general='general', punchline='Sign Language
+id=232, general='general', punchline='An irrelephant.
+id=318, general='general', punchline='Because they arrr!
+id=100, general='general', punchline='She was a roman catholic.
+id=36, general='general', punchline='Because he was a fungi.
+id=325, general='general', punchline='He was too far out, man.
+id=141, general='general', punchline='Oh, it's a really obscure number. You've probably never heard of it.
+id=39, general='general', punchline='European
+id=25, general='programming', punchline='None that's a hardware problem
+id=307, general='general', punchline='At the bottom! 
+id=147, general='general', punchline='An instagram.
+id=130, general='general', punchline='You boil the hell out of it.
+id=274, general='general', punchline='Tooth hurt-y.
+id=307, general='general', punchline='At the bottom! 
+id=337, general='general', punchline='Somebody told him to get a long little doggy.
+id=66, general='general', punchline='It was legend dairy.
+id=11, general='general', punchline='Tooth hurty.
+id=186, general='general', punchline='Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+id=166, general='general', punchline='I'll meet you at the corner!
+id=331, general='general', punchline='To prove that he was framed!
+id=310, general='general', punchline='His ghoul-friend
+id=382, general='programming', punchline='It hurts when IP.
+id=34, general='knock-knock', punchline='That is impossible. Opportunity doesn’t come knocking twice!
+id=185, general='general', punchline='He let out a little wine.
+id=197, general='general', punchline='Make me one with everything.
+id=200, general='general', punchline='Cell phones.
+id=341, general='general', punchline='It was having window panes.
+id=158, general='general', punchline='Shortbread. 
+id=91, general='general', punchline='He's all right now.
+id=24, general='programming', punchline=''Can I join you?'
+id=12, general='knock-knock', punchline='Never mind. It's pointless.
+id=39, general='general', punchline='European
+id=264, general='general', punchline='A little plaque.
+id=106, general='general', punchline='Just in case you get a hole in one.
+id=123, general='general', punchline=' Look for fresh prints.
+id=75, general='general', punchline='Lemonaid.
+id=340, general='general', punchline='Because he couldn't see that well!
+id=212, general='general', punchline='a labracadabrador
+id=54, general='general', punchline='I woke up exhausted!
+id=52, general='general', punchline='He couldn't see himself doing it
+id=286, general='general', punchline='An ion! 
+id=379, general='programming', punchline='A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
+id=92, general='general', punchline='It's ok, he woke up.
+id=132, general='general', punchline='You jacket.
+id=29, general='programming', punchline='Those who understand binary and those who don't
+id=87, general='general', punchline='They had a reptile dysfunction.
+id=303, general='general', punchline='In the calf-ateria.
+id=215, general='general', punchline='An impasta.
+id=65, general='general', punchline='That’s a deep subject.
+id=376, general='general', punchline='Because he doesn't want to be spotted.
+id=323, general='general', punchline='The p is silent.
+id=153, general='general', punchline='Got stacks of em! First one's on the house
+id=69, general='general', punchline='It was a soft drink.
+id=312, general='general', punchline='Because they have their own scales.
+id=259, general='general', punchline='The ground.
+id=365, general='general', punchline='They have no hands to knock on the door.
+id=188, general='general', punchline='Between us, something smells!
+id=33, general='programming', punchline='Can't catch me - Avicii
+id=82, general='general', punchline='Of course. The Empire State Building can't jump.
+id=344, general='general', punchline='Because he was trying to catch up on his sleep!
+id=264, general='general', punchline='A little plaque.
+id=210, general='general', punchline='A Popsicle.
+id=84, general='general', punchline='Yes, but don’t turn it on.
+id=34, general='knock-knock', punchline='That is impossible. Opportunity doesn’t come knocking twice!
+id=5, general='general', punchline='They are two tired
+id=359, general='general', punchline='Because it's too far to walk.
+id=272, general='general', punchline='A nervous wreck.
+id=230, general='general', punchline='Roberto
+id=356, general='general', punchline='Fur protection.
+id=8, general='general', punchline='Tulips
+id=53, general='general', punchline='You boil the hell out of it
+id=275, general='general', punchline='Pop music!
+id=55, general='general', punchline='Because he neverlands
+id=23, general='programming', punchline='Because Oct 31 == Dec 25
+id=20, general='general', punchline='A Yamahahahaha.
+id=305, general='general', punchline='Chick-Fil-Eyyyyyyyy.
+id=30, general='general', punchline='Put it on my bill
+id=23, general='programming', punchline='Because Oct 31 == Dec 25
+id=278, general='general', punchline='The newspaper.
+id=230, general='general', punchline='Roberto
+id=211, general='general', punchline='High definition.
+id=308, general='general', punchline='I haven’t been anywhere!
+id=152, general='general', punchline='200 Dollars.
+id=9, general='general', punchline='You planet
+id=256, general='general', punchline='Spelling!
+id=147, general='general', punchline='An instagram.
+id=162, general='general', punchline='   Billy Jeans!
+id=9, general='general', punchline='You planet
+id=92, general='general', punchline='It's ok, he woke up.
+id=201, general='general', punchline='Grrrrrainnnnnssss.
+id=316, general='general', punchline='They're afraid to unwind.
+id=343, general='general', punchline='He wanted cold hard cash!
+id=347, general='general', punchline='They wanted to hit the high Cs.
+id=41, general='general', punchline='It was the best dam show I ever saw
+id=366, general='general', punchline='Because if they fell forwards they’d still be in the boat.
+id=260, general='general', punchline='Towels
+id=157, general='general', punchline='Saturday and Sunday...the rest are weekdays.
+id=165, general='general', punchline='Do you smell carrot?
+id=131, general='general', punchline='You planet.
+id=11, general='general', punchline='Tooth hurty.
+id=95, general='general', punchline='He just took it in stride
+id=112, general='general', punchline='They haven't got a gig yet.
+id=137, general='general', punchline='With experi-mints!
+id=15, general='programming', punchline='Even if you're wrong, you're only off by a bit.
+id=323, general='general', punchline='The p is silent.
+id=132, general='general', punchline='You jacket.
+id=41, general='general', punchline='It was the best dam show I ever saw
+id=242, general='general', punchline='A fowl smell!
+id=56, general='programming', punchline='Try it out on Internet Explorer
+id=226, general='general', punchline=' A Meowtain.
+id=73, general='programming', punchline='Do you know the problem with UDP jokes?
+id=157, general='general', punchline='Saturday and Sunday...the rest are weekdays.
+id=218, general='general', punchline='A walk.
+id=369, general='general', punchline='To prevent bat breath!
+id=255, general='general', punchline='A blood orange.
+id=296, general='general', punchline='When it's ajar.
+id=336, general='general', punchline='It was feeling crumby.
+id=153, general='general', punchline='Got stacks of em! First one's on the house
+id=320, general='general', punchline='It's two-tired.
+id=105, general='general', punchline='I didn't even know they were catholic.
+id=57, general='general', punchline='Ground beef!
+id=322, general='general', punchline='Because then it'd be a foot!
+id=387, general='general', punchline='I had to draw my own conclusions.
+id=187, general='general', punchline='I’ll ketch up
+id=168, general='general', punchline='Nice belt.
+id=334, general='general', punchline='It got mugged.
+id=26, general='programming', punchline='the rest of them will write Perl
+id=199, general='general', punchline='A JOKE MACHINE!?
+id=306, general='general', punchline='In his sleevies.
+id=279, general='general', punchline=' Light blue.
+id=333, general='general', punchline='Because he was a little horse!
+id=181, general='general', punchline='Look, no hands!
+id=147, general='general', punchline='An instagram.
+id=273, general='general', punchline='A tuba toothpaste.
+id=220, general='general', punchline='A cat-tastrophe.
+id=14, general='knock-knock', punchline='I didn't know you could yodel!
+id=212, general='general', punchline='a labracadabrador
+id=55, general='general', punchline='Because he neverlands
+id=274, general='general', punchline='Tooth hurt-y.
+id=304, general='general', punchline='The batroom.
+id=170, general='general', punchline='Hi, bud!
+id=281, general='general', punchline='A Carrot.
+id=314, general='general', punchline='Because you can see right through them!
+id=340, general='general', punchline='Because he couldn't see that well!
+id=360, general='general', punchline='So they can carry their tune
+id=358, general='general', punchline='Because they don't know the words.
+id=11, general='general', punchline='Tooth hurty.
+id=139, general='general', punchline='All of them!
+id=316, general='general', punchline='They're afraid to unwind.
+id=83, general='general', punchline='No, but April may.
+id=68, general='general', punchline='The sails are going through the roof.
+id=122, general='general', punchline='They log on.
+id=123, general='general', punchline=' Look for fresh prints.
+id=244, general='general', punchline='Frostbite.
+id=87, general='general', punchline='They had a reptile dysfunction.
+id=71, general='general', punchline='They were fully booked.
+id=48, general='general', punchline='I don't know what he laced them with, but I was tripping all day!
+id=317, general='general', punchline='Because they are made to concentrate. 
+id=331, general='general', punchline='To prove that he was framed!
+id=289, general='general', punchline='Dung!
+id=19, general='general', punchline='It ended in a tie.
+id=166, general='general', punchline='I'll meet you at the corner!
+id=213, general='general', punchline='R2 detour.
+id=182, general='general', punchline='Bark bark.
+id=65, general='general', punchline='That’s a deep subject.
+id=94, general='general', punchline='The food is great, but there’s just no atmosphere.
+id=124, general='general', punchline='With tomato paste.
+id=356, general='general', punchline='Fur protection.
+id=330, general='general', punchline='He held up a pair of pants!
+id=219, general='general', punchline='Annette.
+id=57, general='general', punchline='Ground beef!
+id=322, general='general', punchline='Because then it'd be a foot!
+id=150, general='general', punchline='No… Then how’d you get your foot in it?
+id=375, general='general', punchline='Because he is a Supperhero.
+id=52, general='general', punchline='He couldn't see himself doing it
+id=39, general='general', punchline='European
+id=244, general='general', punchline='Frostbite.
+id=364, general='general', punchline='They always get stuck at "C".
+id=68, general='general', punchline='The sails are going through the roof.
+id=152, general='general', punchline='200 Dollars.
+id=18, general='programming', punchline='Because he didn't get arrays.
+id=184, general='general', punchline='Damn!
+id=68, general='general', punchline='The sails are going through the roof.
+id=19, general='general', punchline='It ended in a tie.
+id=234, general='general', punchline='Provolone.
+id=247, general='general', punchline='A co-Bra!
+id=238, general='general', punchline='Try and find the TV island it belongs to.
+id=153, general='general', punchline='Got stacks of em! First one's on the house
+id=292, general='general', punchline='Well, the flag is a big plus.
+id=298, general='general', punchline=' The BP station.
+id=160, general='general', punchline='A spelling bee.
+id=93, general='general', punchline='He had loco motives
+id=8, general='general', punchline='Tulips

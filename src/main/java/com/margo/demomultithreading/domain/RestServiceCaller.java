@@ -3,16 +3,11 @@ package com.margo.demomultithreading.domain;
 import org.springframework.web.client.RestTemplate;
 
 public class RestServiceCaller {
-  private static RestTemplate restServiceCaller = null;
+  private static RestTemplate restServiceCaller = new RestTemplate();
 
-  public RestServiceCaller() {
-  }
+  public RestServiceCaller() {}
 
   public static RestTemplate getObjectSingle() {
-    if (restServiceCaller == null) {
-      restServiceCaller = new RestTemplate();
-    }
     return restServiceCaller;
   }
-
 }
